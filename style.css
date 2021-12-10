@@ -1,0 +1,28 @@
+#table {
+    background-color:darkolivegreen;
+    padding: 10px;
+    border: 5px solid peru;
+    text-align: center;
+    /*margin: 0px 275px 0px 275px;*/
+}
+
+img {
+    width: 100px;
+}
+
+p {
+    font-size: 25px;
+}
+
+#buttons {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+button {
+    background-color: #fff;
+    padding: 5px 10px 5px 10px;
+    border: 2px solid black;
+    box-shadow: 2px 2px black;
+    width: 60px;
+}
